@@ -13,6 +13,5 @@
 
 ## Screenshot
 
-Add a screenshot of the console output here:
-
-![Console Output Screenshot](./screenshot.png)
+![Console Output Screenshot](/img/Screenshot%20from%202026-05-09%2006-58-19.png)
+![Console Output Screenshot](/img/Screenshot%20from%202026-05-09%2006-58-39.png)
